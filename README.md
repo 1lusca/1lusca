@@ -18,7 +18,7 @@
   
   ## Services 📱
   <div style="display: inline_block">
-    <img align="center" alt="1lusca-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg">
+    <img align="center" alt="1lusca-firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
     <br>
     <br>
   </div>
