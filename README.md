@@ -10,6 +10,7 @@
    <br>
 </div>
   
+  -------
   
   ### Services 📱
   <div style="display: inline_block">
@@ -18,6 +19,7 @@
     <br>
   </div>
   
+   -------
   
   ### Mobile 📱
   <div style="display: inline_block">
@@ -27,6 +29,8 @@
     <br>
   </div>
   
+   -------
+  
   ### Database 📁
   <div style="display: inline_block">
     <img align="center" alt="1lusca-mysql" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
@@ -34,6 +38,8 @@
     <br>
     <br>
   </div>
+  
+   -------
   
   ### Workspace 🔨
   <div style="display: inline_block">
@@ -44,6 +50,8 @@
     <br>
   </div>
   
+   -------
+  
    ### OS 💻
   <div style="display: inline_block">
     <img align="center" alt="1lusca-windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
@@ -53,6 +61,7 @@
     <br>
   </div>
   
+   -------
   
  ### Contato 📞
 <div> 
@@ -65,6 +74,8 @@
    <br>
   <br>
 </div>
+
+ -------
 
 ### Stats 🔥
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=1lusca&show_icons=true&theme=yeblu)
