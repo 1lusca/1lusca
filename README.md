@@ -1,7 +1,4 @@
 
-![Snake animation](https://github.com/1lusca)
-
-
 ### Stack 💻
 <div style="display: inline_block">
   <img align="center" alt="1lusca-flutter" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg">
