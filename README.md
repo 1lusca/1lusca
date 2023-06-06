@@ -9,24 +9,16 @@ Desenvolvedor mobile e estudante de Ciências da Computação. Mais de 5 anos de
 
 ### Tecnologias e Ferramentas 💻
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,bootstrap,firebase,mysql,postgres,vscode,androidstudio,vim,linux,xd,figma,postman,wordpress,git,github,trello" />
-  </a>
 </p>
 
-##
-
-
-<div style="display: inline_block">
-  
-
-  <img align="center" alt="1lusca-android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">
-  <img align="center" alt="1lusca-ios" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">
-  <img align="center" alt="1lusca-xcode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
-  <img align="center" alt="1lusca-windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
-  <img align="center" alt="1lusca-trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">
- 
-</div>
+[//]: <> (<div style="display: inline_block">)
+ [//]: <> ( <img align="center" alt="1lusca-android" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg">)
+ [//]: <> ( <img align="center" alt="1lusca-ios" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg">)
+ [//]: <> ( <img align="center" alt="1lusca-xcode" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">)
+  [//]: <> (<img align="center" alt="1lusca-windows" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">)
+  [//]: <> (<img align="center" alt="1lusca-trello" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">)
+[//]: <> (</div>)
   
 ##
   
