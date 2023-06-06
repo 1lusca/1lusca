@@ -36,7 +36,7 @@ Desenvolvedor mobile e estudante de Ciências da Computação. Mais de 5 anos de
 
 ### Stats 🔥
 <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/1lusca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1lusca&layout=compact&langs_count=7&theme=yeblu"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1lusca&show_icons=true&theme=yeblu&include_all_commits=true&count_private=true"/>
 </div>
