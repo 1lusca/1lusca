@@ -7,7 +7,7 @@ Desenvolvedor mobile e estudante de Ciências da Computação. Mais de 5 anos de
 
 ##
 
-### Tecnologias e Ferramentas 💻
+### Tecnologias e Ferramentas 🚀
 <p align="center">
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,bootstrap,firebase,mysql,postgres,vscode,androidstudio,vim,linux,xd,figma,postman,wordpress,git,github,trello"/>
 </p>
