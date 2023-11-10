@@ -1,6 +1,4 @@
 
-![Snake animation](https://github.com/1lusca/1lusca/blob/output/github-contribution-grid-snake.svg)
-
 
 ### Hello, meu nome é Lucas 👨‍💻 
 Desenvolvedor mobile e estudante de Ciências da Computação. Mais de 5 anos de experiência em desenvolvimento de aplicativos Android nativos (plataforma B4X). Entusiasta de tecnologias low-code, atualmente trabalhando com desenvolvimento mobile na plataforma FlutterFlow.
